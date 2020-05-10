@@ -1,5 +1,5 @@
 # Reputation_check
-This program provides getting reputation from some reputation sites.I you would like to check reputations of many FQDNs or IPs, 
+This program provides getting reputation from some reputation sites. If you would like to check reputations of many FQDNs or IPs, 
 this program helps you to get reputations automatically.<br>
 
 ## Reputation sites:
